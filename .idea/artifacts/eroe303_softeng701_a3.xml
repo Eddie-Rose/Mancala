@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="eroe303_softeng701_a3">
+    <output-path>$PROJECT_DIR$/out/artifacts/eroe303_softeng701_a3</output-path>
+    <root id="archive" name="KalahProject.jar">
+      <element id="module-output" name="KalahProject" />
+    </root>
+  </artifact>
+</component>
